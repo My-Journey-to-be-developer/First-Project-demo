@@ -1,4 +1,4 @@
 # First-Project-demo
 This is my first Git Repository.
 <br>
-Author - Kaushal Patel
+Author - Kaushal developer
